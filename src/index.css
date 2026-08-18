@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,regular,500,600,700,800,900,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+@import 'tailwindcss';
+
+@theme {
+    --color-darkBg: hsl(204.55deg 25.58% 16.86%);
+    --color-darkCardBg: hsl(210deg 21.82% 21.57%);
+};
